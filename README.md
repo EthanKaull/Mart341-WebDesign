@@ -1,2 +1,2 @@
-# Mart341-WebDesign
+# Ethan Kaull Mart341-WebDesign
 Repository for Web Design class.
