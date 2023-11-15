@@ -1,0 +1,28 @@
+div{
+    text-align: center;
+    line-height: 1.45em;
+    font-family: EduTASBeginner, sans-serif;
+    margin-bottom: 10px;
+    
+}
+h1, h3{
+    color:rgb(100, 127, 236);
+    text-align: left;
+    font-family: EduTASBeginner, sans-serif;
+    
+}
+.Paragraph1{
+    color: #fc81d9;
+    font-size: 15px;
+    text-indent: 5px;
+    
+}
+
+.Paragraph2{
+    color:rgb(75, 233, 162);
+    font-size: 20px;
+}
+
+p{
+    font-family:  Merriweather, sans-serif;
+}
