@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+}
+
+table{
+    border: 1px dashed black;
+    font-family:  Merriweather, sans-serif;
+    font-weight: 500;
+    padding: 20px;
+}
+
+.textareacomments{
+    padding-bottom: 500px;
+}
+body{
+    background-color: rgb(153, 113, 214);
+}
+div{
+    text-align: left;
+    line-height: 1.45em;
+    font-family: Merriweather, sans-serif;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+h1, h3{
+    color:rgb(255, 255, 255);
+    text-align: left;
+    font-family: EduTASBeginner, sans-serif;
+    
+}
+.Paragraph1{
+    color: #ffffff;
+    font-size: 15px;
+    text-indent: 5px;
+    
+}
+
+.Paragraph2{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+table{
+    border: 1px dashed black;
+    font-family:  Merriweather, sans-serif;
+    font-weight: 500;
+    padding: 20px;
+}
+
+p{
+    font-family:  Merriweather, sans-serif;
+}
+
+
+.menu-item {
+    display: inline-block;
+    margin: 2em .4em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #5cbed9;
+    padding: 0.5em 1em;
+}
+
+.menu-item a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.image1{
+    float: left;
+    content:url("../images/title.webp");
+
+}
+
+
+.image2{
+    float:right;
+    content:url("../images/start.jpeg");
+}
+
+.image3{
+    margin: right;
+    content:url("../images/creator.jpeg");
+}
+
+.arm{
+    margin:left;
+    content:url("../images/arm.jpeg");
+}
+
+.timeline{
+    margin: right;
+    content:url("../images/timeline.jpeg");
+}
+
+.creator2{
+    float: left;
+    content:url("../images/creator2.webp");
+
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+  }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.contactus{
+    width:50%;
+    margin-left: 25%;
+    
+}

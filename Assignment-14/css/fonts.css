@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Merriweather';
+    src: url('../fonts/Merriweather-Regular.ttf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'Merriweather';
+    src: url('../fonts/Merriweather-Bold.ttf') format('truetype');
+    font-weight: 700;
+ }
+ @font-face {
+    font-family: 'EduTASBeginner';
+    src: url('../fonts/EduTASBeginner-Regular.ttf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'EduTASBeginner';
+    src: url('../fonts/EduTASBeginner-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+ }
